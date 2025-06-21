@@ -1,0 +1,25 @@
+body {
+  font-family: cursive;
+}
+
+.bio {
+  font-family: cursive;
+  font-size: large;
+  background-color: darkmagenta;
+  color: aqua;
+}
+
+#profile-pic {
+  border-radius: 50%;
+  width: 150px; 
+  height: auto; 
+}
+
+.hobbies {
+  background-color: darkmagenta;
+  color: aqua;
+}
+
+.contact {
+  background-color: darkmagenta;
+}
